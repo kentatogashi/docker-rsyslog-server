@@ -5,5 +5,5 @@
 # How to run
 
 ```sh
-$ docker run --name docker-rsyslog-server -d kentatogashi:docker-rsyslog-server
+$ docker run --name syslog-server -d kentatogashi/docker-rsyslog-server
 ```
